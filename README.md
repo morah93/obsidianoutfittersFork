@@ -24,4 +24,7 @@ Contact Page: When I'm on the // page: I see a form for a user to fill out their
 About Us Page: When I'm on the // page: I see a page with branded photos and information about our brand, what we represent.
 The most common user flow is this:
 A user lands on the homepage, uses the search bar, sees a list of products, inspects a product, adds it to their cart, registers for an account, purchases the product, and eventually leaves a review.
+
 SCHEMA:
+
+![Screenshot 2023-12-26 at 4 34 16 PM](https://github.com/morah93/obsidianoutfittersFork/assets/97058803/aff7a1b1-8559-42ab-9bd7-6722b38e4fcd)
