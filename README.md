@@ -53,3 +53,42 @@ A user lands on the homepage, uses the search bar, sees a list of products, insp
 SCHEMA:
 
 ![Screenshot 2023-12-26 at 4 34 16 PM](https://github.com/morah93/obsidianoutfittersFork/assets/97058803/aff7a1b1-8559-42ab-9bd7-6722b38e4fcd)
+
+Obsidian Outfitters Website
+
+
+
+BACK-END DEVELOPMENT LANGUAGES:
+
+Javascript
+
+
+
+FRONT-END DEVELOPMENT:
+
+Web Design
+
+Website Development
+
+Web Application
+
+
+
+FRONT-END DEVELOPMENT LANGUAGES:
+
+JavaScript
+
+CSS3
+
+HTML5
+
+CSS
+
+
+
+FRONT-END DEVELOPMENT SKILLS:
+
+Git
+
+React
+
